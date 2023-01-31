@@ -1,0 +1,12 @@
+[submodule "calendar-lib"]
+	path = calendar-lib
+	url = https://github.com/ArtyomZaycev/calendar-lib.git
+[submodule "lib"]
+	path = lib
+	url = https://github.com/ArtyomZaycev/calendar-lib.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ArtyomZaycev/calendar-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ArtyomZaycev/calendar-backend.git
